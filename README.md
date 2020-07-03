@@ -7,5 +7,6 @@ This project requires **Python** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [seaborn](https://seaborn.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+
