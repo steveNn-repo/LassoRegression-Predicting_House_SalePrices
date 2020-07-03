@@ -9,4 +9,6 @@ This project requires **Python** and the following Python libraries installed:
 - [Scikit-learn](http://scikit-learn.org/stable/)
 - [Matplotlib](http://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+- [Warnings]https://docs.python.org/3/library/warnings.html
+- [Pickle]https://docs.python.org/3/library/pickle.html
 
