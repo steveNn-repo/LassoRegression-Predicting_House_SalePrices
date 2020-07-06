@@ -5,7 +5,7 @@ The aim of the project is to develop a machine learning model to predict house s
 ### Goals
 - To be able to understand the features that affect the price of houses in the Market.
 - To determine the significant features on which the house price depend on.
-- To develop a model that predicts the price of a house using the selected/important factors.
+- To develop a model that predicts the price of a house using the selected/important features.
 
 ### Data Source
 - Ames Housing dataset 
