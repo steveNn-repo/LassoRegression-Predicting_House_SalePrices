@@ -26,7 +26,7 @@ This project requires **Python** and the following Python libraries installed:
 - Jupyter Notebook
 
 ### Featured Notebooks
-- ML-Pipeline-Step1_ D
+- [ML-Pipeline-Step1_ Data-Analysis](https://github.com/steveNn07/LassoRegression-Predicting_House_SalePrices/blob/master/ML-Pipeline-Step1_Data-Analysis.ipynb)
 - ML-Pipeline-Step3_Feature-Selection
 - ML-Pipeline-Step3_Feature-Selection
 - ML-Pipeline-Step3_Feature-Selection
