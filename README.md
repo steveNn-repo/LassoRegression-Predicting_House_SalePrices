@@ -27,9 +27,9 @@ This project requires **Python** and the following Python libraries installed:
 
 ### Featured Notebooks
 - [ML-Pipeline-Step1_ Data-Analysis](https://github.com/steveNn07/LassoRegression-Predicting_House_SalePrices/blob/master/ML-Pipeline-Step1_Data-Analysis.ipynb)
-- ML-Pipeline-Step3_Feature-Selection
-- ML-Pipeline-Step3_Feature-Selection
-- ML-Pipeline-Step3_Feature-Selection
+- [ML-Pipeline-Step2_Feature-Engineering](https://github.com/steveNn07/LassoRegression-Predicting_House_SalePrices/blob/master/ML-Pipeline-Step2_Feature-Engineering.ipynb)
+- [ML-Pipeline-Step3_Feature-Selection](https://github.com/steveNn07/LassoRegression-Predicting_House_SalePrices/blob/master/ML-Pipeline-Step3_Feature-Selection.ipynb)
+- [ML-Pipeline-Step4_Model-Building](https://github.com/steveNn07/LassoRegression-Predicting_House_SalePrices/blob/master/ML-Pipeline-Step4_Model-Building.ipynb)
 
 ### Credits
 - www.kaggle.com - This project wouldnt have been possible without Ames dataset from www.kaggle.com
